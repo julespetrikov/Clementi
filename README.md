@@ -1,5 +1,5 @@
 # Clementi
-TODO:Açıklama
+Clementi, 2016 yılında yayınladığım, bir kara fantezi evreninde geçen bilim kurgu romanıdır. Bu depoyu, romanın tüm bileşenlerini saklamak amacıyla kullanmaktayım. Romanımı baştan sona Markdown üzerinden okumak isterseniz bu depoyu kullanabilir, Readme'de belirttiğim bağlantılardan romanımı farklı dosya biçimlerinde çeşitli çevrimiçi kütüphanelerden okuyup edinebilirsiniz. Clementi, Creative Commons lisansı ile lisanslanmıştır. 
 
 ### İçindekiler
 * [Birinci Bölüm](https://gitlab.com/JulesPetrikov/clementi/blob/master/content/B01.md)

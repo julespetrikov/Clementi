@@ -2,16 +2,16 @@
 Clementi, 2016 yılında yayınladığım, bir kara fantezi evreninde geçen bilim kurgu romanıdır. Bu depoyu, romanın tüm bileşenlerini saklamak amacıyla kullanmaktayım. Romanımı baştan sona Markdown üzerinden okumak isterseniz bu depoyu kullanabilir, Readme'de belirttiğim bağlantılardan romanımı farklı dosya biçimlerinde çeşitli çevrimiçi kütüphanelerden okuyup edinebilirsiniz. Clementi, Creative Commons lisansı ile lisanslanmıştır. 
 
 ### İçindekiler
-* [Birinci Bölüm](https://github.com/julespetrikov/Clementi/blob/master/content/B01.md)
-* [İkinci Bölüm](https://github.com/JulesPetrikov/Clementi/blob/master/content/B02.md)
-* [Üçüncü Bölüm](https://github.com/JulesPetrikov/Clementi/blob/master/content/B03.md)
-* [Dördüncü Bölüm](https://github.com/JulesPetrikov/Clementi/blob/master/content/B04.md)
-* [Beşinci Bölüm](https://github.com/JulesPetrikov/Clementi/blob/master/content/B05.md)
-* [Altıncı Bölüm](https://github.com/JulesPetrikov/Clementi/blob/master/content/B06.md)
-* [Yedinci Bölüm](https://github.com/JulesPetrikov/Clementi/blob/master/content/B07.md)
-* [Sekizinci Bölüm](https://github.com/JulesPetrikov/Clementi/blob/master/content/B08.md)
-* [Dokuzuncu Bölüm](https://github.com/JulesPetrikov/Clementi/blob/master/content/B09.md)
-* [Onuncu Bölüm](https://github.com/JulesPetrikov/Clementi/blob/master/content/B10.md)
+* [Birinci Bölüm](https://github.com/snoazll/Clementi/blob/master/content/B01.md)
+* [İkinci Bölüm](https://github.com/snoazll/Clementi/blob/master/content/B02.md)
+* [Üçüncü Bölüm](https://github.com/snoazll/Clementi/blob/master/content/B03.md)
+* [Dördüncü Bölüm](https://github.com/snoazll/Clementi/blob/master/content/B04.md)
+* [Beşinci Bölüm](https://github.com/snoazll/Clementi/blob/master/content/B05.md)
+* [Altıncı Bölüm](https://github.com/snoazll/Clementi/blob/master/content/B06.md)
+* [Yedinci Bölüm](https://github.com/snoazll/Clementi/blob/master/content/B07.md)
+* [Sekizinci Bölüm](https://github.com/snoazll/Clementi/blob/master/content/B08.md)
+* [Dokuzuncu Bölüm](https://github.com/snoazll/Clementi/blob/master/content/B09.md)
+* [Onuncu Bölüm](https://github.com/snoazll/Clementi/blob/master/content/B10.md)
 
 ## Başka Mecralarda Clementi
 [Kobo](https://www.kobo.com/tr/tr/ebook/clementi-1)
